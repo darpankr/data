@@ -1,21 +1,9 @@
 {
   "posts": [
     {
-      "userId": 1,
       "id": 1,
       "title": "hello"
-    },
-    {
-      "userId": 2,
-      "id": 2,
-      "title": "world"
-    },
-    {
-      "userId": 3,
-      "id": 3,
-      "title": "darpan"
-    },
-  ],
+    }
   "profile": {
     "name": "typicode"
   }
