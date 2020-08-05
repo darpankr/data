@@ -1,9 +1,12 @@
 {
   "posts": [
     {
-      "userId": 1,
+      "userid": 1,
       "id": 1,
-      "title": "hello",
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
